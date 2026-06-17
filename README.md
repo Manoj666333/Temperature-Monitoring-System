@@ -28,5 +28,7 @@ Temperature: 24.5 °C
 
 Temperature: 24.7 °C
 
+<img width="1902" height="1072" alt="Image" src="https://github.com/user-attachments/assets/590544f9-c386-4c6a-ba92-bd30284efcdf" />
 Temperature: 24.8 °C
 
+<img width="1902" height="1072" alt="Image" src="https://github.com/user-attachments/assets/590544f9-c386-4c6a-ba92-bd30284efcdf" />
